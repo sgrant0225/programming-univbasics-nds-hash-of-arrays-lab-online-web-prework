@@ -16,5 +16,5 @@ def add_character(show, name)
   
   add_character = show
   show
-  add_character[show]
+  add_character[show] << (name)
 end
