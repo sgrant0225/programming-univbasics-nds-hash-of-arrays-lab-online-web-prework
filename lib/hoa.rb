@@ -13,6 +13,6 @@ def add_character(show, name)
   :third_earthers => ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
-  add_character(show) = name
-  add_character
+  add_character(show) = "Snarf"
+  add_character()
 end
