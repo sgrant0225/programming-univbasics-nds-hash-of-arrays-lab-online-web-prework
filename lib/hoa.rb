@@ -10,6 +10,6 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
  show = BASE_HOA 
  show
- show[show][name] = add_character
+ BASE_HOA[show][name] = add_character
  show
  end
